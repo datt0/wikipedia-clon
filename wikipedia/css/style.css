@@ -1,0 +1,143 @@
+.central-textlogo {
+    position: relative;
+    margin: 4rem auto 0.5rem;
+    width: 270 px;
+    font-family: Linux Libertine,Hoefler Text,Georgia,Times New Roman,Times,serif;
+    font-size: 3rem;
+    font-weight: 400;
+    line-height: 3.3rem;
+    text-align: center;
+    -moz-font-feature-settings: "ss05=1";
+    -moz-font-feature-settings: "ss05";
+    -webkit-font-feature-settings: "ss05";
+    -ms-font-feature-settings: "ss05";
+    font-feature-settings: "ss05";}
+     
+
+    .central-featured-logo {
+        position: absolute;
+        top: 290px;
+        left: 840px;
+    }
+    
+    .jsl10n-visible .central-featured, .jsl10n-visible .jsl10n {
+        visibility: visible;}
+
+    h1 {
+        font-size: 2rem;
+        font-weight: bold;
+    }
+
+    .img {
+border: 0;
+vertical-align: middle;} 
+        
+
+.central-textlogo-wrapper {
+    display: inline-block;
+    vertical-align: bottom;}
+
+.central-textlogo__image {
+    display: inline-block;
+    overflow: hidden;
+    text-indent:0px;} 
+
+    .central-featured{
+    position: relative;
+    height: 325px;
+    height: 32.5rem;
+    width: 546px;
+    width: 54.6rem;
+    max-width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    vertical-align: middle;}  
+    
+    .central-featured-lang {
+        position: absolute;
+        width: 15.6rem;
+    }
+
+    .lang1 {
+        top: 0;
+        right: 60%;}
+
+    .central-featured-lang .link-box {
+        display: block;
+        padding: 0;
+        text-decoration: none;
+        white-space: normal;}    
+    
+    a, a:active, a:focus {
+        unicode-bidi: embed;
+         outline: 0;
+         color: #36c;
+        text-decoration: none;
+        }
+    a {
+        -ms-touch-action: manipulation;
+        touch-action: manipulation;
+        }
+    .central-featured-lang strong {
+        display: block;
+        font-size: 1.6rem;
+        }
+    b, strong {
+        font-weight: 700;
+        }
+    strong {
+        font-weight: bold;
+        }
+    .central-featured-lang small {
+        color: #54595d;
+        display: inline-block;
+        font-size: 1.3rem;
+        line-height: 1.6;}
+
+    small {
+
+        font-size: 1.3rem;
+    }
+
+    /* bdi[Attributes Style] {
+        direction: ltr;
+    } */
+    bdi {
+        unicode-bidi: isolate;
+    }
+    .lang2 {
+        top: 0;
+        left: 60%;
+    }
+    .lang3 {
+        top: 20%;
+        right: 70%;
+    }
+    .lang4 {
+        top: 20%;
+        left: 70%;
+    }
+    .lang5 {
+        top: 40%;
+        right: 72%;
+    }
+    .lang6 {
+        top: 40%;
+        left: 72%;
+    }
+    .lang7 {
+        top: 60%;
+        right: 70%;
+    }
+    .lang8 {
+        top: 60%;
+        left: 70%;
+    }
+    .lang9 {
+        top: 80%;
+        right: 60%;
+    }
+    .lang10 {
+        top: 80%;
+        left: 60%;
+    }
